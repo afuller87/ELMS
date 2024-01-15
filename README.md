@@ -3,9 +3,9 @@ Welcome to ELMS (Enhanced Learning Management System) – an innovative platform
 
 ## User Stories
 ### As a Student:
-- **Browse and Enroll:** I want to easily browse and enroll in courses that interest me, so I can learn at my own pace.
-- **Interact with Content:** I want to view and interact with course content and track my progress.
-- **Communication:** I want to communicate with course instructors for help and clarifications with my assignments.
+- I want to easily browse and enroll in courses that interest me, so I can learn at my own pace.
+- I want to view and interact with course content and track my progress.
+- I want to communicate with course instructors for help and clarifications with my assignments.
 
 ### As a Teacher:
 - I want to upload and manage my course content seamlessly.
