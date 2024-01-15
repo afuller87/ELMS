@@ -8,26 +8,27 @@ Welcome to ELMS (Enhanced Learning Management System) – an innovative platform
 - **Communication:** I want to communicate with course instructors for help and clarifications with my assignments.
 
 ### As a Teacher:
-I want to upload and manage my course content seamlessly.
-I want to track the progress and engagement of my students.
-I want to communicate with my students, providing them guidance and feedback.
+- I want to upload and manage my course content seamlessly.
+- I want to track the progress and engagement of my students.
+- I want to communicate with my students, providing them guidance and feedback.
 
 ### As an Administrator:
-I want to oversee and manage all site content, including courses, students, and teachers.
-I want to ensure the smooth operation of the site by resolving any issues that arise.
+- I want to oversee and manage all site content, including courses, students, and teachers.
+- I want to ensure the smooth operation of the site by resolving any issues that arise.
 
 ## MVP Goals
-User Registration and Authentication: For students, teachers, and admin, including OTP verification via email.
-Course Browsing and Enrollment: Allowing students to browse and enroll in courses.
-Content Management: Enabling teachers to upload and manage course content.
-Basic Communication: Facilitating messaging between students and teachers.
-Admin Control Panel: For managing users, courses, and site content.
+### MVP Goals
+- **User Registration and Authentication:** For students, teachers, and admin, including OTP verification via email.
+- **Course Browsing and Enrollment:** Allowing students to browse and enroll in courses.
+- **Content Management:** Enabling teachers to upload and manage course content.
+- **Basic Communication:** Facilitating messaging between students and teachers.
+- **Admin Control Panel:** For managing users, courses, and site content.
 
 ## Stretch Goals
 ### Future enhancements:
-Advanced Analytics: For teachers to track detailed student progress and engagement.
-Interactive Forums: To foster community discussions among students and teachers.
-Mobile Application: Develop a mobile app version of ELMS for greater accessibility.
-Gamification: Introduce gamified elements like badges and leaderboards to enhance student engagement.
+- **Advanced Analytics:** For teachers to track detailed student progress and engagement.
+- **Interactive Forums:** To foster community discussions among students and teachers.
+- **Mobile Application:** Develop a mobile app version of ELMS for greater accessibility.
+- **Gamification:** Introduce gamified elements like badges and leaderboards to enhance student engagement.
 
 ## Wireframes
