@@ -31,4 +31,14 @@ Welcome to ELMS (Enhanced Learning Management System) – an innovative platform
 - **Mobile Application:** Develop a mobile app version of ELMS for greater accessibility.
 - **Gamification:** Introduce gamified elements like badges and leaderboards to enhance student engagement.
 
+## Technologies
+### Backend:
+- Python
+- Django
+- Django Rest Framework
+- MySQL
+### Frontend:
+- Bootstrap 5
+- ReactJs
+
 ## Wireframes
