@@ -83,7 +83,7 @@ DATABASES = {
     # }
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'ELMS',
+        'NAME': 'elms',
         'USER': 'root',
         'PASSWORD': '',
         'HOST': '127.0.0.1',
@@ -110,12 +110,16 @@ AUTH_PASSWORD_VALIDATORS = [
     },
 ]
 
-REST_FRAMEWORK={
-    'DEFAULT_AUTHENTICATION_CLASSES':[
-        'rest_framework.authentication.TokenAuthentication',
-    ],
+# REST_FRAMEWORK={
+#     'DEFAULT_AUTHENTICATION_CLASSES':[
+#         'rest_framework.authentication.TokenAuthentication',
+#     ],
+# }
+REST_FRAMEWORK = {
+    'DEFAULT_PERMISSION_CLASSES': (
+        'rest_framework.permissions.IsAuthenticated',
+    )
 }
-
 
 # Internationalization
 # https://docs.djangoproject.com/en/5.0/topics/i18n/
