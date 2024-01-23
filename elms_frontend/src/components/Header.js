@@ -13,14 +13,12 @@ function Header(){
           [event.target.name]:event.target.value
       });
   }
-
     const searchCourse = () =>{
       if(searchString.search!=''){
         window.location.href='/search/'+searchString.search
       }
       
     }
-
     return (
       <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
         <div className="container">
