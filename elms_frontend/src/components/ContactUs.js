@@ -81,11 +81,11 @@ function ContactUs(){
                     <ul className='m-0 p-0' style={listStyle}>
                         <li className='mb-2'>
                             <label className='fw-bold'>Address:</label>
-                            <span className='ms-2'>50, Green Avenue, New Delhi</span>
+                            <span className='ms-2'>1234 School Learning Ave</span>
                         </li>
                         <li className='mb-2'>
                             <label className='fw-bold'>Email:</label>
-                            <span className='ms-2'>codeartisanlab2607@gmail.com</span>
+                            <span className='ms-2'>Learn1234@gmail.com</span>
                         </li>
                         <li className='mb-2'>
                             <label className='fw-bold'>Mobile:</label>
@@ -93,7 +93,7 @@ function ContactUs(){
                         </li>
                         <li className='mb-2'>
                             <label className='fw-bold'>Phone:</label>
-                            <span className='ms-2'>121-7894561</span>
+                            <span className='ms-2'>9876543210</span>
                         </li>
                     </ul>
                 </div>

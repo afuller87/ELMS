@@ -54,9 +54,6 @@ function TeacherDetail(){
                     {teacherData.instagram_url && 
                     <a href={teacherData.instagram_url} style={icon_style}><i class="bi bi-instagram ms-2"></i></a>
                     }
-                    {teacherData.website_url && 
-                    <a href={teacherData.website_url} style={icon_style}><i class="bi bi-globe ms-2"></i></a>
-                    }
                     </p>
                 </div>
             </div>

@@ -265,7 +265,7 @@ function CourseDetail(){
                                 <button className='btn btn-success btn-sm ms-2' data-bs-toggle="modal" data-bs-target="#ratingModal">Rating</button>
                             }
                             {ratingStatus == 'success' &&
-                                <small className='badge bg-info text-dark ms-2'>You already rated this course</small>
+                                <small className='badge bg-info text-dark ms-2'>You've rated this course already</small>
                             }
                             <div className="modal fade" id="ratingModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                                 <div className="modal-dialog modal-lg">
