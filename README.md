@@ -9,7 +9,7 @@ Welcome to ELMS (Enhanced Learning Management System) – an innovative platform
 
 ### As a Teacher:
 - I want to upload and manage my course content seamlessly.
-- I want to track the progress and engagement of my students.
+- I want to track the progress of coursework for my students.
 - I want to communicate with my students, providing them guidance and feedback.
 
 ### As an Administrator:
@@ -26,7 +26,7 @@ Welcome to ELMS (Enhanced Learning Management System) – an innovative platform
 
 ## Stretch Goals
 ### Future enhancements:
-- **Advanced Analytics:** For teachers to track detailed student progress and engagement.
+- **Advanced Analytics:** For teachers to track detailed student progress and login history.
 - **Interactive Forums:** To foster community discussions among students and teachers.
 - **Mobile Application:** Develop a mobile app version of ELMS for greater accessibility.
 - **Gamification:** Introduce gamified elements like badges and leaderboards to enhance student engagement.
